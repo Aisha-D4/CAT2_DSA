@@ -98,4 +98,4 @@ public class Linkedlist {
         list.displayList();
         System.out.println();
     }
-}
+};
